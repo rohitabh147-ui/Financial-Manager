@@ -1,0 +1,153 @@
+export const DEFAULT_PERSONAL_INPUTS = {
+  // Identity & Demographics
+  fullName: "Guest",
+  email: "guest@finora.ai",
+  age: 26,
+  targetRetirementAge: 55,
+  occupation: "Software Engineer",
+  employmentType: "Salaried Full-time", // Salaried | Freelancer | Business | Student
+  dependents: 0,
+  cityTier: "Tier 1 Metro (Mumbai/Bangalore/Delhi)",
+  riskTolerance: "Moderate", // Conservative | Moderate | Aggressive
+  primaryGoal: "Wealth Creation & Emergency Runway",
+
+  // Monthly Inflows (Income Streams)
+  primaryIncome: 65000,
+  secondaryIncome: 22000,
+  passiveIncome: 5000,
+  annualBonus: 120000,
+
+  // Monthly Outflows (Fixed & Living Commitments)
+  housingRent: 15000,
+  groceriesDining: 8450,
+  utilitiesBills: 3500,
+  transportCommute: 2500,
+  healthcareInsurance: 2200,
+  subscriptionsEntertainment: 2400,
+  shoppingDiscretionary: 3800,
+  debtLoanEmi: 0,
+  otherCommitments: 1000,
+
+  // Current Assets & Net Worth Baseline
+  liquidSavings: 58000,
+  emergencyFundCurrent: 98000,
+  investmentsStocksMutual: 125000,
+  retirementProvidentFund: 45000,
+  cryptoGoldAssets: 20000,
+  totalLiabilities: 0,
+
+  // Planning Targets & AI Guidance
+  targetSavingsRate: 35,
+  targetEmergencyMonths: 6,
+  customDirectives:
+    "Prioritize low-cost index funds and tax-efficient investments. Alert me if dining exceeds 15% of monthly income. Target 6 months of living expenses in high-yield reserves."
+};
+
+export const PRESET_PROFILES = {
+  salaried: {
+    ...DEFAULT_PERSONAL_INPUTS,
+    fullName: "Alex Sharma",
+    occupation: "Senior Product Designer",
+    employmentType: "Salaried Full-time",
+    primaryIncome: 85000,
+    secondaryIncome: 12000,
+    passiveIncome: 3000,
+    housingRent: 22000,
+    groceriesDining: 11000,
+    utilitiesBills: 4000,
+    transportCommute: 3500,
+    healthcareInsurance: 2500,
+    subscriptionsEntertainment: 3000,
+    shoppingDiscretionary: 5000,
+    debtLoanEmi: 0,
+    liquidSavings: 80000,
+    emergencyFundCurrent: 140000,
+    investmentsStocksMutual: 210000,
+    riskTolerance: "Moderate",
+    primaryGoal: "Home Down Payment & Growth"
+  },
+  freelancer: {
+    ...DEFAULT_PERSONAL_INPUTS,
+    fullName: "Rhea Sen",
+    occupation: "Freelance Creative Director",
+    employmentType: "Freelancer / Consultant",
+    primaryIncome: 45000,
+    secondaryIncome: 40000,
+    passiveIncome: 8000,
+    housingRent: 18000,
+    groceriesDining: 9500,
+    utilitiesBills: 4500,
+    transportCommute: 2000,
+    healthcareInsurance: 3200,
+    subscriptionsEntertainment: 3500,
+    shoppingDiscretionary: 4000,
+    debtLoanEmi: 0,
+    liquidSavings: 110000,
+    emergencyFundCurrent: 180000,
+    investmentsStocksMutual: 150000,
+    targetEmergencyMonths: 9,
+    riskTolerance: "Conservative",
+    primaryGoal: "Cash Flow Smoothing & Safety Cushion",
+    customDirectives:
+      "High variable income. Automatically allocate 40% of freelance invoices into safety buffer."
+  },
+  starter: {
+    ...DEFAULT_PERSONAL_INPUTS,
+    fullName: "Karan Patel",
+    age: 22,
+    occupation: "Junior Associate",
+    employmentType: "Student / Early Career",
+    primaryIncome: 32000,
+    secondaryIncome: 5000,
+    passiveIncome: 0,
+    housingRent: 9000,
+    groceriesDining: 5500,
+    utilitiesBills: 2000,
+    transportCommute: 1800,
+    healthcareInsurance: 1000,
+    subscriptionsEntertainment: 1200,
+    shoppingDiscretionary: 2500,
+    debtLoanEmi: 3000,
+    liquidSavings: 20000,
+    emergencyFundCurrent: 25000,
+    investmentsStocksMutual: 15000,
+    riskTolerance: "Aggressive",
+    primaryGoal: "Debt Clearance & First Emergency Fund",
+    customDirectives:
+      "Aggressively clear student loan EMI while building a 3-month starter emergency fund."
+  },
+  blank: {
+    fullName: "",
+    email: "",
+    age: 25,
+    targetRetirementAge: 60,
+    occupation: "",
+    employmentType: "Salaried Full-time",
+    dependents: 0,
+    cityTier: "Tier 1 Metro",
+    riskTolerance: "Moderate",
+    primaryGoal: "Emergency Fund",
+    primaryIncome: 0,
+    secondaryIncome: 0,
+    passiveIncome: 0,
+    annualBonus: 0,
+    housingRent: 0,
+    groceriesDining: 0,
+    utilitiesBills: 0,
+    transportCommute: 0,
+    healthcareInsurance: 0,
+    subscriptionsEntertainment: 0,
+    shoppingDiscretionary: 0,
+    debtLoanEmi: 0,
+    otherCommitments: 0,
+    liquidSavings: 0,
+    emergencyFundCurrent: 0,
+    investmentsStocksMutual: 0,
+    retirementProvidentFund: 0,
+    cryptoGoldAssets: 0,
+    totalLiabilities: 0,
+    targetSavingsRate: 30,
+    targetEmergencyMonths: 6,
+    customDirectives: ""
+  }
+};
