@@ -1,0 +1,201 @@
+Financial_Year,Bank_Name,Sector,1_Year_FD_Rate_Pct,3_Year_FD_Rate_Pct,5_Year_FD_Rate_Pct,Senior_Citizen_Extra_Spread_Pct
+2016-17,State Bank of India,Public,7.0,6.75,6.5,0.5
+2016-17,Punjab National Bank,Public,7.05,6.8,6.55,0.5
+2016-17,Bank of Baroda,Public,7.05,6.9,6.55,0.5
+2016-17,Canara Bank,Public,7.1,6.8,6.6,0.5
+2016-17,Union Bank of India,Public,7.0,6.75,6.5,0.5
+2016-17,Bank of India,Public,7.0,6.7,6.4,0.5
+2016-17,Indian Bank,Public,6.9,6.7,6.45,0.5
+2016-17,Central Bank of India,Public,7.05,6.75,6.5,0.5
+2016-17,Indian Overseas Bank,Public,7.1,6.75,6.5,0.5
+2016-17,UCO Bank,Public,6.9,6.65,6.4,0.5
+2016-17,HDFC Bank,Private,7.15,6.9,6.75,0.5
+2016-17,ICICI Bank,Private,7.1,6.9,6.7,0.5
+2016-17,Axis Bank,Private,7.15,6.9,6.75,0.5
+2016-17,Kotak Mahindra Bank,Private,7.1,6.8,6.5,0.5
+2016-17,IndusInd Bank,Private,7.6,7.15,6.95,0.5
+2016-17,Federal Bank,Private,7.15,6.85,6.6,0.5
+2016-17,IDFC FIRST Bank,Private,7.35,7.1,6.85,0.5
+2016-17,Yes Bank,Private,7.65,7.15,6.95,0.5
+2016-17,Bandhan Bank,Private,7.7,7.1,6.75,0.5
+2016-17,RBL Bank,Private,7.65,7.2,6.9,0.5
+2017-18,State Bank of India,Public,6.5,6.25,6.25,0.5
+2017-18,Punjab National Bank,Public,6.55,6.3,6.3,0.5
+2017-18,Bank of Baroda,Public,6.55,6.4,6.3,0.5
+2017-18,Canara Bank,Public,6.6,6.3,6.35,0.5
+2017-18,Union Bank of India,Public,6.5,6.25,6.25,0.5
+2017-18,Bank of India,Public,6.5,6.2,6.15,0.5
+2017-18,Indian Bank,Public,6.4,6.2,6.2,0.5
+2017-18,Central Bank of India,Public,6.55,6.25,6.25,0.5
+2017-18,Indian Overseas Bank,Public,6.6,6.25,6.25,0.5
+2017-18,UCO Bank,Public,6.4,6.15,6.15,0.5
+2017-18,HDFC Bank,Private,6.65,6.4,6.5,0.5
+2017-18,ICICI Bank,Private,6.6,6.4,6.45,0.5
+2017-18,Axis Bank,Private,6.65,6.4,6.5,0.5
+2017-18,Kotak Mahindra Bank,Private,6.6,6.3,6.25,0.5
+2017-18,IndusInd Bank,Private,7.1,6.65,6.7,0.5
+2017-18,Federal Bank,Private,6.65,6.35,6.35,0.5
+2017-18,IDFC FIRST Bank,Private,6.85,6.6,6.6,0.5
+2017-18,Yes Bank,Private,7.15,6.65,6.7,0.5
+2017-18,Bandhan Bank,Private,7.2,6.6,6.5,0.5
+2017-18,RBL Bank,Private,7.15,6.7,6.65,0.5
+2018-19,State Bank of India,Public,6.8,6.75,6.75,0.5
+2018-19,Punjab National Bank,Public,6.85,6.8,6.8,0.5
+2018-19,Bank of Baroda,Public,6.85,6.9,6.8,0.5
+2018-19,Canara Bank,Public,6.9,6.8,6.85,0.5
+2018-19,Union Bank of India,Public,6.8,6.75,6.75,0.5
+2018-19,Bank of India,Public,6.8,6.7,6.65,0.5
+2018-19,Indian Bank,Public,6.7,6.7,6.7,0.5
+2018-19,Central Bank of India,Public,6.85,6.75,6.75,0.5
+2018-19,Indian Overseas Bank,Public,6.9,6.75,6.75,0.5
+2018-19,UCO Bank,Public,6.7,6.65,6.65,0.5
+2018-19,HDFC Bank,Private,6.95,6.9,7.0,0.5
+2018-19,ICICI Bank,Private,6.9,6.9,6.95,0.5
+2018-19,Axis Bank,Private,6.95,6.9,7.0,0.5
+2018-19,Kotak Mahindra Bank,Private,6.9,6.8,6.75,0.5
+2018-19,IndusInd Bank,Private,7.4,7.15,7.2,0.5
+2018-19,Federal Bank,Private,6.95,6.85,6.85,0.5
+2018-19,IDFC FIRST Bank,Private,7.15,7.1,7.1,0.5
+2018-19,Yes Bank,Private,7.45,7.15,7.2,0.5
+2018-19,Bandhan Bank,Private,7.5,7.1,7.0,0.5
+2018-19,RBL Bank,Private,7.45,7.2,7.15,0.5
+2019-20,State Bank of India,Public,6.0,6.0,6.0,0.5
+2019-20,Punjab National Bank,Public,6.05,6.05,6.05,0.5
+2019-20,Bank of Baroda,Public,6.05,6.15,6.05,0.5
+2019-20,Canara Bank,Public,6.1,6.05,6.1,0.5
+2019-20,Union Bank of India,Public,6.0,6.0,6.0,0.5
+2019-20,Bank of India,Public,6.0,5.95,5.9,0.5
+2019-20,Indian Bank,Public,5.9,5.95,5.95,0.5
+2019-20,Central Bank of India,Public,6.05,6.0,6.0,0.5
+2019-20,Indian Overseas Bank,Public,6.1,6.0,6.0,0.5
+2019-20,UCO Bank,Public,5.9,5.9,5.9,0.5
+2019-20,HDFC Bank,Private,6.15,6.15,6.25,0.5
+2019-20,ICICI Bank,Private,6.1,6.15,6.2,0.5
+2019-20,Axis Bank,Private,6.15,6.15,6.25,0.5
+2019-20,Kotak Mahindra Bank,Private,6.1,6.05,6.0,0.5
+2019-20,IndusInd Bank,Private,6.6,6.4,6.45,0.5
+2019-20,Federal Bank,Private,6.15,6.1,6.1,0.5
+2019-20,IDFC FIRST Bank,Private,6.35,6.35,6.35,0.5
+2019-20,Yes Bank,Private,6.65,6.4,6.45,0.5
+2019-20,Bandhan Bank,Private,6.7,6.35,6.25,0.5
+2019-20,RBL Bank,Private,6.65,6.45,6.4,0.5
+2020-21,State Bank of India,Public,5.0,5.25,5.35,0.5
+2020-21,Punjab National Bank,Public,5.05,5.3,5.4,0.5
+2020-21,Bank of Baroda,Public,5.05,5.4,5.4,0.5
+2020-21,Canara Bank,Public,5.1,5.3,5.45,0.5
+2020-21,Union Bank of India,Public,5.0,5.25,5.35,0.5
+2020-21,Bank of India,Public,5.0,5.2,5.25,0.5
+2020-21,Indian Bank,Public,4.9,5.2,5.3,0.5
+2020-21,Central Bank of India,Public,5.05,5.25,5.35,0.5
+2020-21,Indian Overseas Bank,Public,5.1,5.25,5.35,0.5
+2020-21,UCO Bank,Public,4.9,5.15,5.25,0.5
+2020-21,HDFC Bank,Private,5.15,5.4,5.6,0.5
+2020-21,ICICI Bank,Private,5.1,5.4,5.55,0.5
+2020-21,Axis Bank,Private,5.15,5.4,5.6,0.5
+2020-21,Kotak Mahindra Bank,Private,5.1,5.3,5.35,0.5
+2020-21,IndusInd Bank,Private,5.6,5.65,5.8,0.5
+2020-21,Federal Bank,Private,5.15,5.35,5.45,0.5
+2020-21,IDFC FIRST Bank,Private,5.35,5.6,5.7,0.5
+2020-21,Yes Bank,Private,5.65,5.65,5.8,0.5
+2020-21,Bandhan Bank,Private,5.7,5.6,5.6,0.5
+2020-21,RBL Bank,Private,5.65,5.7,5.75,0.5
+2021-22,State Bank of India,Public,5.1,5.3,5.45,0.5
+2021-22,Punjab National Bank,Public,5.15,5.35,5.5,0.5
+2021-22,Bank of Baroda,Public,5.15,5.45,5.5,0.5
+2021-22,Canara Bank,Public,5.2,5.35,5.55,0.5
+2021-22,Union Bank of India,Public,5.1,5.3,5.45,0.5
+2021-22,Bank of India,Public,5.1,5.25,5.35,0.5
+2021-22,Indian Bank,Public,5.0,5.25,5.4,0.5
+2021-22,Central Bank of India,Public,5.15,5.3,5.45,0.5
+2021-22,Indian Overseas Bank,Public,5.2,5.3,5.45,0.5
+2021-22,UCO Bank,Public,5.0,5.2,5.35,0.5
+2021-22,HDFC Bank,Private,5.25,5.45,5.7,0.5
+2021-22,ICICI Bank,Private,5.2,5.45,5.65,0.5
+2021-22,Axis Bank,Private,5.25,5.45,5.7,0.5
+2021-22,Kotak Mahindra Bank,Private,5.2,5.35,5.45,0.5
+2021-22,IndusInd Bank,Private,5.7,5.7,5.9,0.5
+2021-22,Federal Bank,Private,5.25,5.4,5.55,0.5
+2021-22,IDFC FIRST Bank,Private,5.45,5.65,5.8,0.5
+2021-22,Yes Bank,Private,5.75,5.7,5.9,0.5
+2021-22,Bandhan Bank,Private,5.8,5.65,5.7,0.5
+2021-22,RBL Bank,Private,5.75,5.75,5.85,0.5
+2022-23,State Bank of India,Public,6.7,6.8,6.5,0.5
+2022-23,Punjab National Bank,Public,6.75,6.85,6.55,0.5
+2022-23,Bank of Baroda,Public,6.75,6.95,6.55,0.5
+2022-23,Canara Bank,Public,6.8,6.85,6.6,0.5
+2022-23,Union Bank of India,Public,6.7,6.8,6.5,0.5
+2022-23,Bank of India,Public,6.7,6.75,6.4,0.5
+2022-23,Indian Bank,Public,6.6,6.75,6.45,0.5
+2022-23,Central Bank of India,Public,6.75,6.8,6.5,0.5
+2022-23,Indian Overseas Bank,Public,6.8,6.8,6.5,0.5
+2022-23,UCO Bank,Public,6.6,6.7,6.4,0.5
+2022-23,HDFC Bank,Private,6.85,6.95,6.75,0.5
+2022-23,ICICI Bank,Private,6.8,6.95,6.7,0.5
+2022-23,Axis Bank,Private,6.85,6.95,6.75,0.5
+2022-23,Kotak Mahindra Bank,Private,6.8,6.85,6.5,0.5
+2022-23,IndusInd Bank,Private,7.3,7.2,6.95,0.5
+2022-23,Federal Bank,Private,6.85,6.9,6.6,0.5
+2022-23,IDFC FIRST Bank,Private,7.05,7.15,6.85,0.5
+2022-23,Yes Bank,Private,7.35,7.2,6.95,0.5
+2022-23,Bandhan Bank,Private,7.4,7.15,6.75,0.5
+2022-23,RBL Bank,Private,7.35,7.25,6.9,0.5
+2023-24,State Bank of India,Public,6.8,7.0,6.6,0.5
+2023-24,Punjab National Bank,Public,6.85,7.05,6.65,0.5
+2023-24,Bank of Baroda,Public,6.85,7.15,6.65,0.5
+2023-24,Canara Bank,Public,6.9,7.05,6.7,0.5
+2023-24,Union Bank of India,Public,6.8,7.0,6.6,0.5
+2023-24,Bank of India,Public,6.8,6.95,6.5,0.5
+2023-24,Indian Bank,Public,6.7,6.95,6.55,0.5
+2023-24,Central Bank of India,Public,6.85,7.0,6.6,0.5
+2023-24,Indian Overseas Bank,Public,6.9,7.0,6.6,0.5
+2023-24,UCO Bank,Public,6.7,6.9,6.5,0.5
+2023-24,HDFC Bank,Private,6.95,7.15,6.85,0.5
+2023-24,ICICI Bank,Private,6.9,7.15,6.8,0.5
+2023-24,Axis Bank,Private,6.95,7.15,6.85,0.5
+2023-24,Kotak Mahindra Bank,Private,6.9,7.05,6.6,0.5
+2023-24,IndusInd Bank,Private,7.4,7.4,7.05,0.5
+2023-24,Federal Bank,Private,6.95,7.1,6.7,0.5
+2023-24,IDFC FIRST Bank,Private,7.15,7.35,6.95,0.5
+2023-24,Yes Bank,Private,7.45,7.4,7.05,0.5
+2023-24,Bandhan Bank,Private,7.5,7.35,6.85,0.5
+2023-24,RBL Bank,Private,7.45,7.45,7.0,0.5
+2024-25,State Bank of India,Public,6.8,7.0,6.5,0.5
+2024-25,Punjab National Bank,Public,6.85,7.05,6.55,0.5
+2024-25,Bank of Baroda,Public,6.85,7.15,6.55,0.5
+2024-25,Canara Bank,Public,6.9,7.05,6.6,0.5
+2024-25,Union Bank of India,Public,6.8,7.0,6.5,0.5
+2024-25,Bank of India,Public,6.8,6.95,6.4,0.5
+2024-25,Indian Bank,Public,6.7,6.95,6.45,0.5
+2024-25,Central Bank of India,Public,6.85,7.0,6.5,0.5
+2024-25,Indian Overseas Bank,Public,6.9,7.0,6.5,0.5
+2024-25,UCO Bank,Public,6.7,6.9,6.4,0.5
+2024-25,HDFC Bank,Private,6.95,7.15,6.75,0.5
+2024-25,ICICI Bank,Private,6.9,7.15,6.7,0.5
+2024-25,Axis Bank,Private,6.95,7.15,6.75,0.5
+2024-25,Kotak Mahindra Bank,Private,6.9,7.05,6.5,0.5
+2024-25,IndusInd Bank,Private,7.4,7.4,6.95,0.5
+2024-25,Federal Bank,Private,6.95,7.1,6.6,0.5
+2024-25,IDFC FIRST Bank,Private,7.15,7.35,6.85,0.5
+2024-25,Yes Bank,Private,7.45,7.4,6.95,0.5
+2024-25,Bandhan Bank,Private,7.5,7.35,6.75,0.5
+2024-25,RBL Bank,Private,7.45,7.45,6.9,0.5
+2025-26,State Bank of India,Public,6.4,6.5,6.25,0.5
+2025-26,Punjab National Bank,Public,6.45,6.55,6.3,0.5
+2025-26,Bank of Baroda,Public,6.45,6.65,6.3,0.5
+2025-26,Canara Bank,Public,6.5,6.55,6.35,0.5
+2025-26,Union Bank of India,Public,6.4,6.5,6.25,0.5
+2025-26,Bank of India,Public,6.4,6.45,6.15,0.5
+2025-26,Indian Bank,Public,6.3,6.45,6.2,0.5
+2025-26,Central Bank of India,Public,6.45,6.5,6.25,0.5
+2025-26,Indian Overseas Bank,Public,6.5,6.5,6.25,0.5
+2025-26,UCO Bank,Public,6.3,6.4,6.15,0.5
+2025-26,HDFC Bank,Private,6.55,6.65,6.5,0.5
+2025-26,ICICI Bank,Private,6.5,6.65,6.45,0.5
+2025-26,Axis Bank,Private,6.55,6.65,6.5,0.5
+2025-26,Kotak Mahindra Bank,Private,6.5,6.55,6.25,0.5
+2025-26,IndusInd Bank,Private,7.0,6.9,6.7,0.5
+2025-26,Federal Bank,Private,6.55,6.6,6.35,0.5
+2025-26,IDFC FIRST Bank,Private,6.75,6.85,6.6,0.5
+2025-26,Yes Bank,Private,7.05,6.9,6.7,0.5
+2025-26,Bandhan Bank,Private,7.1,6.85,6.5,0.5
+2025-26,RBL Bank,Private,7.05,6.95,6.65,0.5
