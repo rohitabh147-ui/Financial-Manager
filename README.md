@@ -9,6 +9,7 @@ Conventional financial tools offer budgeting and general advice. They don’t ad
 # Dataset
 - nifty500-nifty500_processed_data.csv
 - gold_price_cleaned.csv
+- indian_major_20_banks_fd_rates_10_years.csv
 
   
 # Front-end :React + Vite
@@ -71,6 +72,10 @@ MongoDB Atlas: A cloud-hosted NoSQL document database (Cluster0) configured via 
 - pydantic: Used for data validation and schema definitions across your API endpoints
 
   
+# Machine learning Algrothims used
+- Python libraries : NumPy , Matplotlib , Pandas , Sckit-learn
+- ML Algo - Linear Regression 
+
 # Author
 - Rohita Bhattacharya
 - Sayan Dey Sarkar
