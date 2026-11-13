@@ -81,7 +81,7 @@ MongoDB Atlas: A cloud-hosted NoSQL document database (Cluster0) configured via 
 - Sayan Dey Sarkar
 - Sandip Naskar
 - Nirnimesh Srivastava
-- Priyanshu Prasad
+  
 
 
 
